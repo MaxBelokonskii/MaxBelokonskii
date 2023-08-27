@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Max Belokonskii from Rostov-on-Don!<br><br>- 📚 I'm currently learning Python and Node.js <br>- ⚡ In my free time I play bass, cook and see my friends<br><br>Frontend developer with experience in creating dynamic and interactive user interfaces. Committed to crafting efficient and intuitively understandable web applications using modern technologies such as HTML, CSS, and TypeScript. Proficient in working with libraries and frameworks such as React, Next.js, and Tenstack-Query. Passionate about studying best practices and staying up-to-date with the latest trends in the world of frontend development.</p>
+<p align="left">I'm Frontend Developer from Rostov-on-Don!<br><br>- 📚 I'm currently learning Python and Node.js <br>- ⚡ In my free time I play bass, cook and see my friends<br><br>Frontend developer with experience in creating dynamic and interactive user interfaces. Committed to crafting efficient and intuitively understandable web applications using modern technologies such as HTML, CSS, and TypeScript. Proficient in working with libraries and frameworks such as React, Next.js, and Tenstack-Query. Passionate about studying best practices and staying up-to-date with the latest trends in the world of frontend development.</p>
 
 ###
 
