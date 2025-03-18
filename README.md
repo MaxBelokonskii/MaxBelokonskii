@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Frontend Developer from Rostov-on-Don!<br><br>- 📚 I'm currently learning Python and Node.js <br>- ⚡ In my free time I play bass, cook and see my friends<br><br>Frontend developer with experience in creating dynamic and interactive user interfaces. Committed to crafting efficient and intuitively understandable web applications using modern technologies such as HTML, CSS, and TypeScript. Proficient in working with libraries and frameworks such as React, Next.js, and Tenstack-Query. Passionate about studying best practices and staying up-to-date with the latest trends in the world of frontend development.</p>
+<p align="left">I'm Frontend Developer from Rostov-on-Don!<br><br>- 📚 I'm currently learning Python and Node.js <br>- ⚡ In my free time I play bass, cook and see my friends<br><br>Frontend developer with experience in creating dynamic and interactive user interfaces. Committed to crafting efficient and intuitively understandable web applications using modern technologies such as HTML, CSS, and TypeScript. Proficient in working with libraries and frameworks such as React, Next.js, Tenstack-Query, Vue 3, Nuxt.js, and Pinia. Passionate about studying best practices and staying up-to-date with the latest trends in the world of frontend development.</p>
 
 ###
 
@@ -52,6 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -67,6 +71,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="vitest logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -80,7 +86,7 @@
 
 ###
 
-<p align="left">Here's a more comprehensive list of technologies I use in development:<br><br>Core:<br>JS, TS, React, Next.js<br><br>State Management:<br>Redux, Jotai, React-Query<br><br>Design Systems:<br>Headless UI, Material UI, ANTD, React Components<br><br>Testing:<br>Jest, React Testing Library<br><br>Other:<br>Tailwind, Figma, Storybook, Docker, Git</p>
+<p align="left">Here's a more comprehensive list of technologies I use in development:<br><br>Core:<br>JS, TS, React, Next.js, Tenstack-Query, Vue 3, Nuxt.js<br><br>State Management:<br>Redux, Jotai, Vuex, Pinia<br><br>Design Systems:<br>Headless UI, Material UI, ANTD, React Components<br><br>Testing:<br>Jest, Vitest, React Testing Library<br><br>Other:<br>Tailwind, Figma, Storybook, Docker, Git</p>
 
 ###
 
